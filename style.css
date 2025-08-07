@@ -10,6 +10,14 @@ input::placeholder {
     color: red;
 }
 
+.titulo_bienvenida{
+    color: blue;
+}
+
+.titulo_bienvenida::first-letter{
+    color: aqua;
+}
+
 p {
     font-size: 1em=16px;
     font-size: 2em=32pxpx;
